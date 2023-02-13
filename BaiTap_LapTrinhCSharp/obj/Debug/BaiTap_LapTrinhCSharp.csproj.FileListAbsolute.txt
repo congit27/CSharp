@@ -1,0 +1,7 @@
+D:\WebC#\BaiTap_LapTrinhCSharp\BaiTap_LapTrinhCSharp\bin\Debug\BaiTap_LapTrinhCSharp.exe.config
+D:\WebC#\BaiTap_LapTrinhCSharp\BaiTap_LapTrinhCSharp\bin\Debug\BaiTap_LapTrinhCSharp.exe
+D:\WebC#\BaiTap_LapTrinhCSharp\BaiTap_LapTrinhCSharp\bin\Debug\BaiTap_LapTrinhCSharp.pdb
+D:\WebC#\BaiTap_LapTrinhCSharp\BaiTap_LapTrinhCSharp\obj\Debug\BaiTap_LapTrinhCSharp.csprojAssemblyReference.cache
+D:\WebC#\BaiTap_LapTrinhCSharp\BaiTap_LapTrinhCSharp\obj\Debug\BaiTap_LapTrinhCSharp.csproj.CoreCompileInputs.cache
+D:\WebC#\BaiTap_LapTrinhCSharp\BaiTap_LapTrinhCSharp\obj\Debug\BaiTap_LapTrinhCSharp.exe
+D:\WebC#\BaiTap_LapTrinhCSharp\BaiTap_LapTrinhCSharp\obj\Debug\BaiTap_LapTrinhCSharp.pdb
