@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CRUD_EF
 build_property.RootNamespace = CRUD_EF
-build_property.ProjectDir = D:\Subject\Code_CSharp\CRUD_EF\CRUD_EF\
+build_property.ProjectDir = D:\Subject\Code_CSharp\EF_CRUD\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Subject\Code_CSharp\CRUD_EF\CRUD_EF
+build_property.MSBuildProjectDirectory = D:\Subject\Code_CSharp\EF_CRUD
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Subject/Code_CSharp/CRUD_EF/CRUD_EF/Pages/Error.cshtml]
+[D:/Subject/Code_CSharp/EF_CRUD/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Subject/Code_CSharp/CRUD_EF/CRUD_EF/Pages/Index.cshtml]
+[D:/Subject/Code_CSharp/EF_CRUD/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Subject/Code_CSharp/CRUD_EF/CRUD_EF/Pages/Privacy.cshtml]
+[D:/Subject/Code_CSharp/EF_CRUD/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Subject/Code_CSharp/CRUD_EF/CRUD_EF/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Subject/Code_CSharp/EF_CRUD/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Subject/Code_CSharp/CRUD_EF/CRUD_EF/Pages/_ViewImports.cshtml]
+[D:/Subject/Code_CSharp/EF_CRUD/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Subject/Code_CSharp/CRUD_EF/CRUD_EF/Pages/_ViewStart.cshtml]
+[D:/Subject/Code_CSharp/EF_CRUD/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Subject/Code_CSharp/CRUD_EF/CRUD_EF/Pages/Shared/_Layout.cshtml]
+[D:/Subject/Code_CSharp/EF_CRUD/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3jl8yicj7i

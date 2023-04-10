@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Subject\\Code_CSharp\\CRUD_EF\\CRUD_EF\\CRUD_EF.csproj": {}
+    "D:\\Subject\\Code_CSharp\\EF_CRUD\\CRUD_EF.csproj": {}
   },
   "projects": {
-    "D:\\Subject\\Code_CSharp\\CRUD_EF\\CRUD_EF\\CRUD_EF.csproj": {
+    "D:\\Subject\\Code_CSharp\\EF_CRUD\\CRUD_EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Subject\\Code_CSharp\\CRUD_EF\\CRUD_EF\\CRUD_EF.csproj",
+        "projectUniqueName": "D:\\Subject\\Code_CSharp\\EF_CRUD\\CRUD_EF.csproj",
         "projectName": "CRUD_EF",
-        "projectPath": "D:\\Subject\\Code_CSharp\\CRUD_EF\\CRUD_EF\\CRUD_EF.csproj",
+        "projectPath": "D:\\Subject\\Code_CSharp\\EF_CRUD\\CRUD_EF.csproj",
         "packagesPath": "C:\\Users\\conbo\\.nuget\\packages\\",
-        "outputPath": "D:\\Subject\\Code_CSharp\\CRUD_EF\\CRUD_EF\\obj\\",
+        "outputPath": "D:\\Subject\\Code_CSharp\\EF_CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\conbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
